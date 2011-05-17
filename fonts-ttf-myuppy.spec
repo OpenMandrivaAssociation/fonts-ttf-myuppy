@@ -1,7 +1,7 @@
 Summary:	MYuppy TrueType font
 Name:		fonts-ttf-myuppy
 Version:	1.0.0
-Release:	%mkrel 1
+Release:	%mkrel 2
 License:	Eclipse Public Licence 1.0
 URL:		http://developer.symbian.org/
 Group:		System/Fonts/True type

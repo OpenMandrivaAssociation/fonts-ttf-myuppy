@@ -8,6 +8,7 @@ Group:		System/Fonts/True type
 Source0:	http://developer.symbian.org/xref/epl/raw/Symbian3/sf/os/textandloc/fontservices/referencefonts/truetype/myuppygb-medium.ttf
 Source1:	http://developer.symbian.org/xref/epl/raw/Symbian3/sf/os/textandloc/fontservices/referencefonts/truetype/myuppygb-medium_readme.txt
 BuildArch:	noarch
+BuildRequires: fontconfig
 BuildRoot:	%{_tmppath}/%{name}-%{version}-%{release}-buildroot
 
 %description

@@ -46,3 +46,14 @@ rm -fr %buildroot
 %dir %_datadir/fonts/TTF/myuppy/
 %_datadir/fonts/TTF/myuppy/*.ttf
 %_sysconfdir/X11/fontpath.d/ttf-myuppy:pri=50
+
+
+%changelog
+* Tue May 17 2011 Funda Wang <fwang@mandriva.org> 1.0.0-2mdv2011.0
++ Revision: 675576
+- br fontconfig for fc-query used in new rpm-setup-build
+
+* Sun Aug 29 2010 Funda Wang <fwang@mandriva.org> 1.0.0-1mdv2011.0
++ Revision: 574183
+- import fonts-ttf-myuppy
+

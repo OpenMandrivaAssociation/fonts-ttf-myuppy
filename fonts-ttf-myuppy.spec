@@ -3,7 +3,7 @@ Name:		fonts-ttf-myuppy
 Version:	1.0.0
 Release:	3
 License:	Eclipse Public Licence 1.0
-URL:		http://developer.symbian.org/
+URL:		https://developer.symbian.org/
 Group:		System/Fonts/True type
 Source0:	http://developer.symbian.org/xref/epl/raw/Symbian3/sf/os/textandloc/fontservices/referencefonts/truetype/myuppygb-medium.ttf
 Source1:	http://developer.symbian.org/xref/epl/raw/Symbian3/sf/os/textandloc/fontservices/referencefonts/truetype/myuppygb-medium_readme.txt
